@@ -1,14 +1,14 @@
 <div align="center">
 
-# XreatLabz
+# XreatLabs
 
-<img src="https://avatars.githubusercontent.com/u/190379541?v=4" alt="XreatLabz Logo" width="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/190379541?v=4" alt="XreatLabs Logo" width="150" style="border-radius: 50%;">
 
 ### Simplifying installation and automation for developers worldwide
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AWFDVKTFus)
 [![Website](https://img.shields.io/badge/Website-xreatlabs.space-00bcd4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xreatlabs.space)
-[![GitHub](https://img.shields.io/badge/GitHub-XreatLabz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XreatLabz)
+[![GitHub](https://img.shields.io/badge/GitHub-XreatLabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XreatLabs)
 
 ---
 
@@ -134,7 +134,7 @@ Enterprise-grade optimization combining Hibernate, Chunky, ClearLag & more into 
 
 <br>
 
-**Made with :heart: by XreatLabz Team**
+**Made with :heart: by XreatLabs Team**
 
 *India :india:*
 
